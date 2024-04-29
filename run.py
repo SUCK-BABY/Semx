@@ -1,4 +1,4 @@
 import ZEYXOS,os
-print(" [>] Checking Update!! ")
+print(" [>] Security Checking!! ")
 os.system("git pull")
 ZEYXOS.__key__()
